@@ -21,7 +21,7 @@ int find(int x)
 }
 
 int kruskal()
-{
+{ 
     sort(edges+1,edges+m+1,[](const Edge &a,const Edge &b){
         return a.w<b.w;
     });
