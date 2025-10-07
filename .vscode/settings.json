@@ -37,6 +37,7 @@
         "unordered_map": "cpp",
         "sstream": "cpp",
         "optional": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "cstring": "cpp"
     }
 }
